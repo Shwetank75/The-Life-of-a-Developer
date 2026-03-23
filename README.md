@@ -40,7 +40,9 @@ The goal is to create a cinematic and engaging experience inspired by modern Aww
 ## 🎯 Project Structure
 
 ```
-index.html   → Main file containing HTML, CSS, and JS
+index.html   → Main HTML structure  
+style.css    → Styling and layout  
+script.js    → Interactivity and animations 
 ```
 
 ---
